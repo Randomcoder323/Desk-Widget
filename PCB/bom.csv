@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BZ1,Buzzer_12x9.5RM7.6,1,Buzzer,
+"R1, R2",1206,2,R,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+"SW2, SW3, SW4",SW_Cherry_MX_1.00u_PCB,3,SW_Push,
+U1,WEMOS_C3_mini,1,WEMOS_C3_mini,
+U2,TFT-320x240,1,CR2013-MI2120,

@@ -1,29 +1,36 @@
 # Desk-Widget
 Desk Widget is a tool for my desk to help me set timer, see clock, weather, and event my grades! I will doulbe use this to be able to see my construct dashboard too! I made this project to have a cool item on why desk and to make my first non-guided hard ware project! This also feautres a battery power module on the side!
 
-## CAD
-<img width="751" height="552" alt="Screenshot 2026-02-28 at 5 14 14 PM" src="https://github.com/user-attachments/assets/03a273ad-9af5-4c4c-bb79-640e8a60f872" />
-<img width="739" height="538" alt="Screenshot 2026-02-28 at 5 14 06 PM" src="https://github.com/user-attachments/assets/445d7cb3-5e00-4512-81c4-dd97b03dc166" /><img width="710" height="511" alt="Screenshot 2026-02-28 at 3 16 25 PM" src="https://github.com/user-attachments/assets/3d4b1341-1210-416c-9f63-dc60144ed881" />
-<img width="1191" height="817" alt="image" src="https://github.com/user-attachments/assets/cd5ec9d3-ab3a-4632-87a6-592021be2bde" />
-<img width="1070" height="811" alt="image" src="https://github.com/user-attachments/assets/e2dd8812-b2b9-4ae9-b74f-3bc06291f1e1" />
+## Renders 
+<img width="100%" alt="for_fusion_2026-Mar-01_04-36-51PM-000_CustomizedView14713585769_png" src="https://github.com/user-attachments/assets/20677c57-07a5-4ef6-81f8-916e33e4549b" />
+<img width="100%" alt="for_fusion_2026-Mar-01_04-37-14PM-000_CustomizedView22532680049_png" src="https://github.com/user-attachments/assets/bdde269c-2024-4ff1-a05a-27df7a7d7e9f" />
 
+<img width="100%" alt="for_fusion_2026-Mar-01_04-37-23PM-000_CustomizedView30101169369_png" src="https://github.com/user-attachments/assets/dc687727-d964-4dd1-8954-1089809656c2" />
+<img width="100%" alt="for_fusion_2026-Mar-01_04-37-34PM-000_CustomizedView12322844739_png" src="https://github.com/user-attachments/assets/3b831f20-9df6-4c36-a501-f37d4bffd7cf" />
+<img width="100%" alt="for_fusion_2026-Mar-01_04-37-54PM-000_CustomizedView26408718735_png" src="https://github.com/user-attachments/assets/5767d5e1-f037-4188-802d-f57523d4692a" />
+
+## CAD
+<img width="100%" alt="Screenshot 2026-02-28 at 5 14 14 PM" src="https://github.com/user-attachments/assets/03a273ad-9af5-4c4c-bb79-640e8a60f872" />
+<img width="100%" alt="Screenshot 2026-02-28 at 5 14 06 PM" src="https://github.com/user-attachments/assets/445d7cb3-5e00-4512-81c4-dd97b03dc166" />
+<img width="100%" alt="Screenshot 2026-02-28 at 3 16 25 PM" src="https://github.com/user-attachments/assets/3d4b1341-1210-416c-9f63-dc60144ed881" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/cd5ec9d3-ab3a-4632-87a6-592021be2bde" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/e2dd8812-b2b9-4ae9-b74f-3bc06291f1e1" />
 
 ## Schematics and PCB
 
-<img width="853" height="744" alt="image" src="https://github.com/user-attachments/assets/caeb4276-b20a-4fa4-b05d-2d335dccee7f" />
-<img width="745" height="523" alt="image" src="https://github.com/user-attachments/assets/c064a85e-7d1c-4560-97d0-18496744ef2c" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/caeb4276-b20a-4fa4-b05d-2d335dccee7f" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/c064a85e-7d1c-4560-97d0-18496744ef2c" />
+<img width="495" height="441" alt="Screenshot 2026-03-01 095247" src="https://github.com/user-attachments/assets/59bd1c90-cd32-4a3e-a9d3-59167e4819e8" />
 
 ## Cart 
-<img width="1835" height="459" alt="image" src="https://github.com/user-attachments/assets/62a098b4-6303-475a-8734-5171e37b59f3" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/62a098b4-6303-475a-8734-5171e37b59f3" />
 
-<img width="1581" height="882" alt="Screenshot 2026-03-01 102827" src="https://github.com/user-attachments/assets/6bacefb0-9505-40ed-9ee3-6312ca371f4b" />
+<img width="100%" alt="Screenshot 2026-03-01 102827" src="https://github.com/user-attachments/assets/6bacefb0-9505-40ed-9ee3-6312ca371f4b" />
 
-<img width="444" height="1018" alt="Screenshot 2026-03-01 102838" src="https://github.com/user-attachments/assets/d24d5163-94dd-42af-abc9-a219fab86f06" />
-<img width="438" height="367" alt="Screenshot 2026-03-01 102846" src="https://github.com/user-attachments/assets/6acb4b34-0a11-483b-ada2-f7cd13081fc1" />
+<img width="100%" alt="Screenshot 2026-03-01 102838" src="https://github.com/user-attachments/assets/d24d5163-94dd-42af-abc9-a219fab86f06" />
+<img width="100%" alt="Screenshot 2026-03-01 102846" src="https://github.com/user-attachments/assets/6acb4b34-0a11-483b-ada2-f7cd13081fc1" />
 
 ## BOM
-
-# Desk Widget Bill of Materials (BOM)
 # Desk Widget Bill of Materials (BOM)
 
 | Product Name | Cost (inc. Tax/Fees) | Link | Quantity | Notes |

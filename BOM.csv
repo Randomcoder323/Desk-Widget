@@ -1,0 +1,11 @@
+Product Name,Cost with tax and fees,Link,Quantity,Notes
+TFT LCD 2.8" Display,6.59,https://a.aliexpress.com/_mMdYwtn,1,ILI9341 SPI module
+ESP32-C3 SuperMini,5.8,https://a.aliexpress.com/_mOm8OjT,1,RISC-V 32-Bit Microcontroller
+Rotary Encoder,1.41,https://www.aliexpress.us/item/3256805974348762.html,1,EC11 with switch
+Resistors (1206 SMD),2.28,https://www.aliexpress.us/item/2251832653290717.html,2,"100R and 10kR, 100 pack minimum"
+Li-ion Batteries,7.87,https://www.aliexpress.us/item/3256809557482932.html,2,3.7V Rechargeable
+5V 2A Charging Module,1.35,https://www.aliexpress.us/item/3256807113819906.html,1,USB-C Charging & Protection
+3D Printed Parts,7,https://github.com/Randomcoder323/Desk-Widget,N/A,Print Legion shipping
+Custom PCB,6.6,N/A,1,Manufactured via KiCad
+Cherry MX Switches,N/A,Owned,3,Reused from hackpad
+Total,38.9,,,

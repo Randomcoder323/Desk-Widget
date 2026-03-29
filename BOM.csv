@@ -1,11 +1,11 @@
-Product Name,Cost with tax and fees,Link,Quantity,Notes
-TFT LCD 2.8-inch Display,6.59,https://a.aliexpress.com/_mMdYwtn,1,Screen to display stuff
-ESP32-C3 SuperMini,5.8,https://a.aliexpress.com/_mOm8OjT,1,Microntroller to control the system and between screen and inputs
-Rotary Encoder,1.41,https://www.aliexpress.us/item/3256805974348762.html,1,Rotary encoder siwtch for better input
-Resistors (1206 SMD),2.28,https://www.aliexpress.us/item/2251832653290717.html,2,resistors to resist curretn
-Li-ion Batteries,7.87,https://www.aliexpress.us/item/3256809557482932.html,2,batteries to power it on with no usb needed
-5V 2A Charging Module,1.35,https://www.aliexpress.us/item/3256807113819906.html,1,chargign module to connect the battery to micro controller using a usb c
-3D Printed Parts,7,https://github.com/Randomcoder323/Desk-Widget,N/A,Print Legion shipping
-Custom PCB,6.6,N/A,1, To put on the compoennts on and connect
-Cherry MX Switches,N/A,Owned,3,Reused from hackpad- other form of input
-Total,38.9,,,
+Name,Purpose,Qty,Total (USD),Link,Distributor
+TFT LCD 2.8-inch Display,Screen to display stuff,1,6.59,https://a.aliexpress.com/_mMdYwtn,AliExpress
+ESP32-C3 SuperMini,Microcontroller to control system and connect screen/inputs,1,5.8,https://a.aliexpress.com/_mOm8OjT,AliExpress
+Rotary Encoder,Rotary encoder switch for input,1,1.41,https://www.aliexpress.us/item/3256805974348762.html,AliExpress
+Resistors (1206 SMD),Resistors to resist current,2,2.28,https://www.aliexpress.us/item/2251832653290717.html,AliExpress
+Li-ion Batteries,Batteries to power device without USB,2,7.87,https://www.aliexpress.us/item/3256809557482932.html,AliExpress
+5V 2A Charging Module,Charging module to connect battery to microcontroller via USB-C,1,1.35,https://www.aliexpress.us/item/3256807113819906.html,AliExpress
+3D Printed Parts,Enclosure and structure, N/A,7,https://github.com/Randomcoder323/Desk-Widget,Print legion
+Custom PCB,PCB to mount components and connect circuits,1,6.6,N/A,Manufacturer
+Cherry MX Switches,Reused from hackpad as alternative input,3,0,N/A,Owned
+Total,Overall cost,N/A,38.9,N/A,N/A

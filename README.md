@@ -1,6 +1,27 @@
 # Desk-Widget
 Desk Widget is a tool for my desk to help me set timer, see clock, weather, and event my grades! I will doulbe use this to be able to see my construct dashboard too! I made this project to have a cool item on why desk and to make my first non-guided hard ware project! This also feautres a battery power module on the side!
 
+## Build!
+
+## Video
+[Video of working](https://www.youtube.com/watch?v=M0zOZwbptvA)
+
+## Images
+<img width="3000" height="3000" alt="1000019627" src="https://github.com/user-attachments/assets/7a06f42b-fd2b-4a3d-9b36-79eb897650ad" />
+<img width="3000" height="3000" alt="1000019623" src="https://github.com/user-attachments/assets/769f6ba9-6eaa-47f1-884a-80edf03f8771" />
+<img width="3000" height="3000" alt="1000019628" src="https://github.com/user-attachments/assets/f90ec52b-4435-49ba-9223-5515b5fb791e" />
+<img width="3000" height="3000" alt="1000019421" src="https://github.com/user-attachments/assets/878fd288-59a7-4f84-9bbf-b2ac88419262" />
+<img width="3000" height="3000" alt="1000019420" src="https://github.com/user-attachments/assets/69d3d2d4-3f7d-417b-ba39-4702a8f04845" />
+<img width="3000" height="3000" alt="1000019424" src="https://github.com/user-attachments/assets/4efd9ddd-0b86-44f0-8786-7cb323c778cd" />
+
+
+
+<img width="3000" height="3000" alt="1000019622" src="https://github.com/user-attachments/assets/94718691-2290-42d4-aaa4-01ebc4986e98" />
+
+
+
+
+
 ## Renders 
 <img width="100%" alt="for_fusion_2026-Mar-01_04-36-51PM-000_CustomizedView14713585769_png" src="https://github.com/user-attachments/assets/20677c57-07a5-4ef6-81f8-916e33e4549b" />
 <img width="100%" alt="for_fusion_2026-Mar-01_04-37-14PM-000_CustomizedView22532680049_png" src="https://github.com/user-attachments/assets/bdde269c-2024-4ff1-a05a-27df7a7d7e9f" />
